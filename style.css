@@ -1,0 +1,12 @@
+table {
+	margin:auto;
+	}
+	
+td { padding: 20px;
+	text-align: center;
+	}
+
+.super {
+	font-size: 9pt;
+	vertical-align:super;
+	}
